@@ -1,0 +1,19 @@
+# Ren'Py compiled files
+*.rpyc
+
+# Save data and persistent data
+game/saves/
+game/cache/
+
+# Distribution folders
+build/
+dist/
+
+# System files
+Thumbs.db
+.DS_Store
+traceback.txt
+log.txt
+errors.txt
+
+HCM202-1.0-dists 
